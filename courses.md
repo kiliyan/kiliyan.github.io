@@ -10,10 +10,12 @@ layout: default
 
 
 ### Indian Institute of Technology Kharagpur
-- [MA41001](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp) - Theory of Operating Systems
+- [MA41001](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp): Theory of Operating Systems (**Spring 2022**)
 - [CE60103](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/CE60103//CE60103_1.pdf): Monte Carlo simulations in Engineering (**Fall 2021**)
 - [CE60125](http://www.facweb.iitkgp.ac.in/~biswanath/TeachingNM.html): Numerical Methods in Structural Engineering (**Fall 2021**)
-- [MA40002](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp): Integral equations and variational methods (**Fall 2020**)
+- [MA40002](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp): Integral equations and variational methods (**Spring 2020**)
 - [MA21007](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/MA21007//MA21007_1.pdf): Design and Analysis of Algorithms (**Fall 2020**)
-- [MA30014](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/MA30014//MA30014_1.pdf): Operations Research (**Fall 2020**)
-- [MA20104](https://wiki.metakgp.org/w/MA20104:_Probability_And_Statistics): Probability and Statistics (**Fall 2020**)
+- [MA30014](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/MA30014//MA30014_1.pdf): Operations Research (**Spring 2019**)
+- [MA20104](https://wiki.metakgp.org/w/MA20104:_Probability_And_Statistics): Probability and Statistics (**Fall 2019**)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
