@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+$header-heading-color: black; // Change heading color to black
+$section-headings-color: black; // Change section heading color to black
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
