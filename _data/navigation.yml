@@ -4,5 +4,11 @@ docs:
 - title: Home
   url: index.html
 
+- title: Projects
+  url: project.html
+
+- title: Courses
+  url: courses.html
+
 - title: Contact
   url: contact.html
