@@ -21,6 +21,7 @@ I joined the Oden institute as a Master's student in Computational Science, Engi
 
 Before I started my Master's I was working as a Data Scientist at [Piramal Finance](https://www.piramal.com/businesses/piramal-enterprises/financial-services/piramal-capital-housing-finance-limited-pchfl/) making credit underwriting models for new to credit customers. I was also part of the team that credit risk monitoring team.
 
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
 
 
