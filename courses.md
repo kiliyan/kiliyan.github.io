@@ -10,9 +10,9 @@ layout: default
 
 
 ### Indian Institute of Technology Kharagpur
--[CE41208](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/CE41028//CE41028_1.pdf) : Structural Health Monitoring) (**TA Spring 2022**)
+- [CE41208](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/CE41028//CE41028_1.pdf) : Structural Health Monitoring) (**TA Spring 2022**)
 - [MA41001](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp): Theory of Operating Systems (**Spring 2022**)
-- -[CE39007](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/CE41028//CE41028_1.pdf) : Concrete Laboratory (**TA Fall 2021**)
+- [CE39007](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/CE41028//CE41028_1.pdf) : Concrete Laboratory (**TA Fall 2021**)
 - [CE60103](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp?fileFullPath=/DATA/ARCHIVE/SUBJECT/SYLLABUS/2009/CE60103//CE60103_1.pdf): Monte Carlo simulations in Engineering (**Fall 2021**)
 - [CE60125](http://www.facweb.iitkgp.ac.in/~biswanath/TeachingNM.html): Numerical Methods in Structural Engineering (**Fall 2021**)
 - [MA40002](https://erp.iitkgp.ac.in/ERPWebServices/curricula/commonFileDownloader.jsp): Integral equations and variational methods (**Spring 2020**)
