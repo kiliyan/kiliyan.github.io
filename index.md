@@ -17,9 +17,11 @@ layout: default
 </div>
 <div id="clearer" style="clear: both"> </div>
 
-I joined the Oden institute as a Master's student in Computational Science, Engineering and Mathematics in August 2024. I obtained my integrated dual degree (BTech+MTech) in Civil Engineering specialising in Structural engineering from [IIT Kharagpur](https://www.iitkgp.ac.in/) in May 2022. I also had a minor degree in Mathematics and Computing. 
+I joined the Oden institute as a Master's student in Computational Science, Engineering and Mathematics in August 2024. I obtained my integrated dual degree (BTech+MTech) in Civil Engineering specialising in Structural engineering from [IIT Kharagpur](https://www.iitkgp.ac.in/) in May 2022. I have a minor degree in Mathematics and Computing from IIT Kharagpur.
 
-Before I started my Master's I was working as a Data Scientist at [Piramal Finance](https://www.piramal.com/businesses/piramal-enterprises/financial-services/piramal-capital-housing-finance-limited-pchfl/) making credit underwriting models for new to credit customers. I was also part of the team that credit risk monitoring team.
+Prior to joining Oden I was working as a Data Scientist at [Piramal Finance](https://www.piramal.com/businesses/piramal-enterprises/financial-services/piramal-capital-housing-finance-limited-pchfl/) making credit underwriting models for new to credit customers. Apart from model building I was responsible for driving discussions with third party vendors for input features required by various underwriting models. I was also part of the credit risk monitoring team 
+
+
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
