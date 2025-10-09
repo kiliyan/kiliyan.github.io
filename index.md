@@ -12,7 +12,7 @@ layout: default
 <p> <b>Alwin Anto</b> <br> <em>CSEM Master's Student</em> </p>
 <p> <a href="https://oden.utexas.edu" target="blank">Oden Institute for Computational Engineering and Sciences</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
-<p> <a href="files/alwin_resume_2023.pdf">Curriculum vitae </a> </p>
+<p> <a href="files/Resume_Alwin.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
