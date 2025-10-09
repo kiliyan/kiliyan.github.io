@@ -4,6 +4,12 @@ layout: default
 ---
 
 ### The University of Texas in Austin
+
+- [ECE 381K](https://sites.utexas.edu/mokhtari/files/2020/07/ClassPolicy_Fall2019_EE381K-18.pdf): Convex Optimisation (**Fall 2025**)
+- [CSE 397](): Non-Linear Continuum Mechanics (**Fall 2025**)
+- [CSE 392](https://oden.utexas.edu/academics/courses/topics-in-computer-science/): Parallel Computing for Science and Engineering (**Spring 2025*)
+- [CSE 397](https://oden.utexas.edu/academics/courses/mathematical-physiology-397-9/): Mathematical Physiology (**Spring 2025**)
+- [CSE 393P](https://oden.utexas.edu/academics/courses/Computional-variational-meths-inv-probs-393p/): Computational and Variational Methods for Inverse Problems (**Spring 2025**)
 - [CSE 380](https://oden.utexas.edu/media/academics/course/Gen_syllabus_CSE_380.pdf): Tools and Techniques of Computational Science (**Fall 2024**)
 - [CSE 383C](https://oden.utexas.edu/academics/courses/numerical-analysis-linear-algebra/): Numerical Analysis - Linear Algebra(**Fall 2024**)
 - [CSE 394.1](https://oden.utexas.edu/academics/courses/Stochastic-processes-I-394-1/): Stochastic Processes I (**Fall 2024**)
