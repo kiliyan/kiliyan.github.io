@@ -9,7 +9,7 @@ layout: default
     <img src="images/profile_picture.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Alwin Anto</b> <br> <em>CSEM Master's Student</em> </p>
+<p> <b>Alwin Anto</b> <br> <em>CSEM PhD Student</em> </p>
 <p> <a href="https://oden.utexas.edu" target="blank">Oden Institute for Computational Engineering and Sciences</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
 <p> <a href="files/Resume_Alwin_.pdf">Curriculum vitae </a> </p>
