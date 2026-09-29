@@ -17,11 +17,11 @@ layout: default
 </div>
 <div id="clearer" style="clear: both"> </div>
 
-I joined the Oden institute as a Master's student in Computational Science, Engineering and Mathematics in August 2024. Currently I work with Dr. Berkin Dortdivanlioglu on modelling soft inclusions in fiber networks using material point method. I obtained my integrated dual degree (BTech+MTech) in Civil Engineering specialising in Structural engineering from [IIT Kharagpur](https://www.iitkgp.ac.in/) in May 2022. I have a minor degree in Mathematics and Computing from IIT Kharagpur.
+I am a PhD student at UT Austin in the Computational Science Engineering and Mathematics Program (Oden Institute). I am a member of the [Willerson Center for Cardiovascular Modelling and Simulation](https://wccms.oden.utexas.edu) currently working on computational and inverse modeling methods to quantify in vivo cardiovascular deformation and mechanics. I gradauted with Master's in CSEM from UT Austin working on locking resistant Material point methods for finite strain solid mechanics with Dr. Berkin Dortdivanlioglu at the [CSML](https://cmsmlab.github.io/). I obtained my integrated dual degree (BTech+MTech) in Civil Engineering specialising in Structural engineering from [IIT Kharagpur](https://www.iitkgp.ac.in/) in May 2022. I have a minor degree in Mathematics and Computing from IIT Kharagpur.
 
-Prior to joining Oden I was working as a Data Scientist at [Piramal Finance](https://www.piramal.com/businesses/piramal-enterprises/financial-services/piramal-capital-housing-finance-limited-pchfl/) making credit underwriting models for new to credit customers. Apart from model building I was responsible for driving discussions with third party vendors for input features required by various underwriting models. I was also part of the credit risk monitoring team 
+Prior to joining Oden I was working as a Data Scientist at [Piramal Finance](https://www.piramal.com/businesses/piramal-enterprises/financial-services/piramal-capital-housing-finance-limited-pchfl/) making credit underwriting models for new to credit customers. Apart from model building I was responsible for driving discussions with third party vendors for input features required by various underwriting models. I was also part of the credit risk monitoring team.
 
-
+Outside of work I play football (soccer) and am a Manchester United fan. I enjoy going for runs, especially around Lake Austin, and I’m happy to call Austin home. Hook'em Horns!  
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
